@@ -31,6 +31,7 @@ export const data: AppData = {
     { id: 'dsp', name: 'Dyson Sphere Program', game: Game.DysonSphereProgram },
     { id: 'sfy', name: 'Satisfactory', game: Game.Satisfactory },
     { id: 'coi', name: 'Captain of Industry', game: Game.CaptainOfIndustry },
+    { id: 'custom', name: 'SEK2 + tweaks', game: Game.Factorio },
   ],
   v0: [
     '1.1',
@@ -50,6 +51,7 @@ export const data: AppData = {
     'seablock',
     'space-exploration',
     'xander',
+    'custom',
   ],
   hash: [
     '1.1',
@@ -81,5 +83,6 @@ export const data: AppData = {
     '248o',
     '248kr2sxp',
     'aai',
+    'custom',
   ],
 };
